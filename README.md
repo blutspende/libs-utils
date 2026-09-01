@@ -2,7 +2,7 @@
 Various utility functions used throughout bloodlab.
 
 ###### Install
-`go get github.com/blutspende/libs/utils`
+`go get github.com/blutspende/libs-utils`
 
 ## Slices
 Contains utility functions for slices.

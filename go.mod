@@ -1,4 +1,4 @@
-module github.com/blutspende/libs/utils
+module github.com/blutspende/libs-utils
 
 go 1.26.6
 
